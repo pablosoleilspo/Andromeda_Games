@@ -1,0 +1,25 @@
+.imagesPreviewContainer{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 0px 10px;
+    margin-bottom: 5px;
+}
+
+.imagesPreviewContainer img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.imgScale{
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10px;
+
+}
+
+.h1{
+    font-size:20px;
+    color: #fff;
+}
